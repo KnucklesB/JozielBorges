@@ -35,9 +35,9 @@ I'm a system analyst and developer with a passion for understanding the intricat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JozielBorges&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KnucklesB&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JozielBorges&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnucklesB&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
@@ -59,7 +59,7 @@ Sou um analista e desenvolvedor de sistemas com talento para desvendar mistério
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/JozielBorges/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/KnucklesB/count.svg)
 
 </div>
 <div align="center">
